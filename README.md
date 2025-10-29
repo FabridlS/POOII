@@ -3,6 +3,7 @@ Repositorio del Grupo de Trabajo 01:
 - Da Rosa Jesica
 - Grabovieski Matias
 - Mendez Camila
+- Tatiana Maia
 
 Profesores:
 - Claudio Omar Biale
